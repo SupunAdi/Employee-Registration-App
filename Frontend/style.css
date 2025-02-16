@@ -1,0 +1,54 @@
+body {
+    background-color: #e0f7fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #00796b;
+}
+
+.table-section {
+    margin-top: 30px;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #b2ebf2;
+    cursor: pointer;
+}
+
+.btn-primary {
+    background-color: #00796b;
+    border-color: #00796b;
+}
+
+.btn-primary:hover {
+    background-color: #004d40;
+    border-color: #004d40;
+}
+
+.btn-secondary {
+    background-color: #0288d1;
+    border-color: #0288d1;
+}
+
+.btn-secondary:hover {
+    background-color: #01579b;
+    border-color: #01579b;
+}
+
+.btn-danger {
+    background-color: #d32f2f;
+    border-color: #d32f2f;
+}
+
+.btn-danger:hover {
+    background-color: #b71c1c;
+    border-color: #b71c1c;
+}
